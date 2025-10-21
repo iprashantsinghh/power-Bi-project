@@ -1,1 +1,4 @@
-# power-Bi-project
+My First Power BI Project: From Intimidation to Insight! Excited to share my latest data project: a comprehensive Superstore Sales Dashboard & Forecasting solution built entirely in Power BI. When I started, the complex DAX logic and rigorous Power Query modeling felt intimidating. My approach was simple but crucial: I relied heavily on excellent YouTube tutorials and data community content, breaking the concepts down into manageable steps. I pushed through, and the hands-on experience exploded! I focused on delivering actionable insights by: Cleaning and Modeling complex datasets using Power Query. Integrating a 15-day sales forecast to shift the focus from reactive to predictive analysis. The result is a robust, dynamic dashboard, and more importantly, a significant upgrade to my skills in data architecture and predictive analytics. Huge win for my skills in data visualization, forecasting, and dashboard design!
+https://ibb.co/GQC1wyrG
+https://ibb.co/BV1LDYzB
+https://ibb.co/q82hg1Y
